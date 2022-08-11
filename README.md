@@ -2,7 +2,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fada2020&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fada2020&count_private=true)](https://github.com/fada2020/github-readme-stats)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=fada2020)](벨로그링크)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=fada2020)](https://velog.io/@fada2020)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fada2020&layout=compact&count_private=true)](https://github.com/fada2020/github-readme-stats)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://fada2020.github.io/)](https://fada2020.github.io/)
