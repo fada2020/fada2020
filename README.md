@@ -1,14 +1,10 @@
-### Hi there 👋
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://fada2020.github.io/)](https://fada2020.github.io/)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fada2020)](https://github.com/anuraghazra/github-readme-stats)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://fada2020.github.io/)](https://fada2020.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ju-hyeok-48750b193/)](https://www.linkedin.com/in/ju-hyeok-48750b193/)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/100079903582838)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leehyeokju1@gmail.com)](mailto:leehyeokju1@gmail.com)
 	
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ju-hyeok-48750b193/)](https://www.linkedin.com/in/ju-hyeok-48750b193/)
-	
-	
-  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/100079903582838)
-	
-	
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leehyeokju1@gmail.com)(mailto:leehyeokju1@gmail.com)
-	 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fada2020)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **fada2020/fada2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
