@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=header&text=백견이불여일타&fontSize=20)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fada2020)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fada2020)](https://github.com/fada2020/github-readme-stats)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=fada2020)](벨로그링크)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://fada2020.github.io/)](https://fada2020.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ju-hyeok-48750b193/)](https://www.linkedin.com/in/ju-hyeok-48750b193/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/100079903582838)
@@ -20,4 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
