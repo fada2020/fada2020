@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=50&section=header&text=아침7시개발&fontSize=20)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fada2020&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github.com/stats-organization/github-stats-extended/api?username=fada2020&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fada2020&count_private=true)](https://github.com/fada2020/github-readme-stats)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=fada2020)](https://velog.io/@fada2020)
