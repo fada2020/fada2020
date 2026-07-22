@@ -3,9 +3,9 @@
 <!-- 미러 API 서버 사용 -->
 [![Anurag's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fada2020&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fada2020&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fada2020&theme=dark)](https://git.io/streak-stats)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=fada2020)](https://velog.io/@fada2020)
-
+[![fada2020's GitHub stats](https://github-readme-stats-git-master-rstacruz.vercel.app/api?username=fada2020&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github)](https://github.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/zzsza)
